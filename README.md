@@ -8,6 +8,32 @@ The computer world is growing and so its users too. The day by day increasing de
 The basic concept of Swooj is furnishing a ThinOS that can run as a WebOS. It can also handle all the user requirements as thick client OS. Swooj provides new generation of operating system by offering a web- based enterprise operating system for thin clients. It affords all the tasks like backup, software update, hardware upgrade, modern implementation technologies, modern concept of the enterprise and internet connection speed. Since most of the modern applications depend on network Swooj provides a good environment for these applications. Day by day increasing knowledge and emergence of lot of new information in the computer field make it hard for the normal user to cope with tracking of latest updates, applications and news. Swooj helps the business as well as normal users to focus on their needs and let all the complexity to be handled by Swooj OS. Swooj’s features are multi-factorial. It uses the same internet protocols and your computer is your Swooj log-in account. It provides auto backup and auto restore and there is no need for any anti-viruses and anti-hacking software. It makes the network software easy to implement, lowers the cost of computers, and has simple OS interface and well-animated system interface. With Swooj the user can upload or download files to his local computer or to Swooj, add or delete folders or files from his local Swooj, make his file or folder shared (mountable folders), add or delete virtual folders or files from other Swooj computer that make folder or file shared, install/uninstall applications, change and configure his desktop, access to his calendar, tasks, contacts, browse and save web pages. We have used RUP, UML, Java EE 5 and Ajax technologies to accomplish this project. Because it is a web-based application, it is also compatible with other systems provided the browser is supporting Ajax and JavaScript is enabled. The technologies used in Swooj are as follow: RUP with prototyping for software developing process; UML for analysis and design; and Java EE 5 with Ajax for implementation.
 
 
+# Screenshot of Swooj operating systems running on the Cloud
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/screenshot1.png
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/screenshot2.png
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/screenshot3.png
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/screenshot4.png
+
+# Swooj awards
+- https://dl.dropboxusercontent.com/u/550719/swooj/awards1.jpeg
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/awards2.jpeg
+
+
+# Documents
+- https://dl.dropboxusercontent.com/u/550719/swooj/Swooj%20leaflet.pdf
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/Swooj%20Poster%20in%20Innovation%2007%20in%20UAE.pdf
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/Swooj%20Presentation.pdf
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/Swooj%20Report%20Summary.pdf
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/Swooj%20White%20Paper%202007-2008.pdf
 
 # نظام التشغيل سووج
 
@@ -47,3 +73,8 @@ CD/DVD: كما هو الحال في ذاكرة الفلاش.
 
 المشروع لازال تحت التطوير ولم يخرج إلى النور حتى الآن. وفي نهاية هذا الشرح البسيط عن نظام التشغيل سووج، أود أن أشكر المشرف على مشروع سووج (بدأ كمشروع تخرج) د.خالد الغثبر. وقد عملنا سويا أنا وزميلي محمد عبدالله الحامد فترة طويلة على هذا المشروع حتى خرجنا بهذه الفكرة. بالإضافة إلى أنني أود أن أشكر جامعة الملك سعود متمثلة في قسم نظم المعلومات في كلية علوم الحاسب والمعلومات لدعمها لنا.
 
+
+# مستندات
+- https://dl.dropboxusercontent.com/u/550719/swooj/Swooj%20%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9.pdf
+
+- https://dl.dropboxusercontent.com/u/550719/swooj/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%20%D8%B3%D9%88%D9%88%D8%AC.pdf
